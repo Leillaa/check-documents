@@ -1,0 +1,6 @@
+pillow
+pytesseract
+python-docx
+openpyxl
+ezodf
+pdf2image
